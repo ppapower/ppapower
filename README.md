@@ -10,7 +10,7 @@ Below you can find a list of instruments that i have encountered and worked with
 - Nodejs
 - ReactJS + redux
 
-#### Databases and tools:
+#### Databases:
 - PostgreSQL, 
 - MongoDB
 - MySQL
